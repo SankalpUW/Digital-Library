@@ -6,11 +6,12 @@ Digital online library where users can create books, share them with other users
 
 I'm currently trying to setup a proxmox server on an old laptop that I can use as my server, since I couln't find any great ways to deploy backend for free. Here are the steps to run the app on your local machine:
 
-1. Clone the repo
+1. Clone the repository on your local machine
 2. In the root directory, run:
   ```
   docker compose up -d
   ```
+3. In the frontend directory, run ```npm install```
 
 ![image](https://github.com/user-attachments/assets/5d0e0754-d9ff-4b6a-bd85-2b283d046532)
 
