@@ -14,6 +14,9 @@ I'm currently trying to setup a proxmox server on an old laptop that I can use a
 6. Then run ```ng serve``` in the frontend directory
 7. You can now access the login page at "localhost:4200/login", and the mail service will be at "localhost:1080"
 
+![image](https://github.com/user-attachments/assets/bdac45df-7ce7-41f0-8b9f-218fb7626d65)
+
+
 ![image](https://github.com/user-attachments/assets/5d0e0754-d9ff-4b6a-bd85-2b283d046532)
 
 
